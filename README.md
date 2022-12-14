@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshay Rathod</h1>
-<h3 align="center">A passionate frontendI am passionate about data and its influence on fact and insight-driven decision-making. Able to perform all sorts of Exploratory Data Analysis. Advanced Analysis, Statistical Analysis, data mining, running various machine learning algorithms along with graphical analysis to reach draw relevant insights based on huge data being provided. I'm seeking opportunities to enhance my skills and ensure growth in my data analytics career. developer from India</h3>
+<h3 align="center">I am passionate about data and its influence on fact and insight-driven decision-making. I'm seeking opportunities to enhance my skills and ensure growth in my data analytics career. developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshay2719&label=Profile%20views&color=0e75b6&style=flat" alt="akshay2719" /> </p>
 
